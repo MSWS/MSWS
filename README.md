@@ -3,7 +3,7 @@
 <br>
 
 # What I'm proud of
-## **JavaStats**
+## **[JavaStats](https://github.com/MSWS/JavaStats)**
 A Spring-boot Java application that scrapes statistics off of [GameTracker](https://www.gametracker.com/server_info/jb.csgo.edgegamers.cc:27015/) and formats them for Markdown for easy copy-pasting.
 
 **Softwares Used**
@@ -11,7 +11,7 @@ A Spring-boot Java application that scrapes statistics off of [GameTracker](http
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [AWS](https://aws.amazon.com/developertools/2536)
 
-## **ZombieCore**
+## **[ZombieCore](https://github.com/MSWS/ZombieCore)**
 An addon plugin for [ZombieApocalypse](https://www.spigotmc.org/resources/zombieapocalypse-8-zombie-types-1-18-2-support.82106/) that allows customization of entity spawning, game mechanics, and difficulty.
 
 **Softwares Used**
