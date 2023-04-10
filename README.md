@@ -8,4 +8,4 @@ Hello! This is my GitHub. Allow me to show off a few of my projects.
 You can reach me through email at [imodmaker@gmail.com](mailto:imodmaker@gmail.com) or Discord (MSWS#9499).
 
 ## What I'm Doing
-I'm currently working towards a CS Bachelors Degree. In the meantime, I'm exercising my brain with [GFL](https://gflclan.com/), an online gaming community. You can see a full list of my projects [here](https://github.com/MSWS?tab=repositories). Happy browsing!
+I'm currently working towards a CS Bachelors Degree. In the meantime, I'm exercising my brain with [eGO](https://edgm.rs/), an online gaming community. You can see a full list of my projects [here](https://github.com/MSWS?tab=repositories). Happy browsing!
