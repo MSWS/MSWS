@@ -5,7 +5,7 @@ Hello! This is my GitHub. Allow me to show off a few of my projects.
 - **[bhop-reports](https://github.com/MSWS/bhop-reports)** is a SourceMod reporting system meant for Shavit's BHop timer. It supports creating, handling, and deleting reports.
 - **[Tetris](https://github.com/MSWS/Tetris)** is a python recreation of the classic game!
 
-You can reach me through email at [imodmaker@gmail.com](mailto:imodmaker@gmail.com) or Discord (MSWS#9499).
+You can reach me through email at [contact@msws.xyz](mailto:contact@msws.xyz) or Discord (MSWS).
 
 ## What I'm Doing
 I'm currently working towards a CS Bachelors Degree. In the meantime, I'm exercising my brain with [eGO](https://edgm.rs/), an online gaming community. You can see a full list of my projects [here](https://github.com/MSWS?tab=repositories). Happy browsing!
